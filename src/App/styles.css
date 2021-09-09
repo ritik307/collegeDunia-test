@@ -1,0 +1,15 @@
+.container{
+    /* margin: 2vh; */
+    /* padding: 2vh; */
+    border: 1px solid black;
+    
+}
+.cardHolder{
+    display: flex;
+    flex-direction:row ;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cardDiv{
+    width: 100vh;
+}

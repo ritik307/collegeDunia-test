@@ -1,0 +1,124 @@
+
+@font-face {
+    font-family: 'DINPro-Regular';
+    src: url('../fonts/DINPro-Medium_13936.ttf'); 
+}
+*{
+    font-family: 'DINPro-Regular';
+}
+.card-container{
+    margin: 5vh 2vh;
+    padding: 0;
+    /* border: 1px solid ; */
+    border-radius: 5px;
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+}
+.header{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url("https://cache.careers360.mobi/media/article_images/2020/11/7/Hansraj_College_Photo.jpg");
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 30vh;
+    padding: 2vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.tags-container{
+    display: flex;
+    flex-direction: row;
+    height: inherit;
+    align-items: flex-end;
+}
+.tags{
+    padding: 1vh;
+    background-color: white;
+    border-radius: 20vh;
+    margin-right: 2vh;
+}
+.rating-container{
+    justify-content: center;
+}
+.rating-div{
+    background-color: #F5A626;
+    color: white;
+    border-radius: 10px;
+    padding: 1vh;
+}
+.rating-content{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.description{
+    padding-left:2vh;
+    padding-right:2vh;
+    display: flex;
+    flex-direction: row;
+    font-weight: bolder;
+}
+.left-div{
+    line-height: 1em;
+    
+}
+.college-name{
+    /* padding-bottom: 0vh ; */
+    margin-bottom: 0;
+}
+.college-addr{
+    margin-top: 1;
+    /* padding-top: 0vh; */
+}
+.sub-info{
+    color: gray;
+}
+.extra-info{
+    color: #41B79B;
+}
+.landmark-dist{
+    color: black;
+}
+
+.right-div{
+    flex-grow: 1;
+    text-align: end;
+}
+.price{
+    /* flex-grow: 1;
+    text-align: end; */
+    color: red;
+    margin-bottom: 0;
+}
+.sem-info{
+    margin-top: 0em;
+    color: gray;
+}
+.offer-description{
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 2vh;
+}
+.offer-left{
+    background-color:aquamarine ;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.login-btn{
+    color:cornflowerblue;
+}
+.offer-right{
+    flex-grow: 1;
+    padding-right: 2vh;
+    text-align: end;
+}

@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "id":1,
+            "page":1,
+            "name": "Miranda House",
+            "desc": "my college"
+        },
+        {
+            "id":2,
+            "page":1,
+            "name": "Lady Shri Ram College for Women",
+            "desc": "my college"
+        },
+        {
+            "id":3,
+            "page":1,
+            "name": "Loyola College",
+            "desc": "my college"
+        },
+        {
+            "id":4,
+            "page":1,
+            "name": "St. Xavier’s College",
+            "desc": "my college"
+        },
+        {
+            "id":5,
+            "page":1,
+            "name": "Ramakrishna Mission Vidyamandira",
+            "desc": "my college"
+        },
+        {
+            "id":6,
+            "page":2,
+            "name": "PSGR Krishnammal College for Women",
+            "desc": "my college"
+        },
+        {
+            "id":7,
+            "page":2,
+            "name": "Presidency College",
+            "desc": "my college"
+        },
+        {
+            "id":8,
+            "page":2,
+            "name": "St Stephen's College",
+            "desc": "my college"
+        },
+        {
+            "id":9,
+            "page":2,
+            "name": "Hindu College",
+            "desc": "my college"
+        },
+        {
+            "id":10,
+            "page":2,
+            "name": "Shri Ram College of Commerce",
+            "desc": "my college"
+        },
+        {
+            "id":11,
+            "page":3,
+            "name": "Sri Venkateswara College",
+            "desc": "my college"
+        },
+        {
+            "id":12,
+            "page":3,
+            "name": "Atma Ram Santan Dharm College",
+            "desc": "my college"
+        },
+        {
+            "id":13,
+            "page":3,
+            "name": "Deen Dayal Upadhyaya College",
+            "desc": "my college"
+        },
+        {
+            "id":14,
+            "page":3,
+            "name": "Hans Raj College",
+            "desc": "my college"
+        },
+        {
+            "id":15,
+            "page":3,
+            "name": "Gargi College",
+            "desc": "my college"
+        },
+        {
+            "id":16,
+            "page":4,
+            "name": "Kirori Mal College",
+            "desc": "my college"
+        },
+        {
+            "id":17,
+            "page":4,
+            "name": "Madras Christian College",
+            "desc": "my college"
+        },
+        {
+            "id":18,
+            "page":4,
+            "name": "PSG College of Arts and Science",
+            "desc": "my college"
+        },
+        {
+            "id":19,
+            "page":4,
+            "name": "PSG College of Arts and Science",
+            "desc": "my college"
+        },
+        {
+            "id":20,
+            "page":4,
+            "name": "Acharya Narendra Dev College",
+            "desc": "my college"
+        },
+        {
+            "id":21,
+            "page":5,
+            "name": "Gargi College",
+            "desc": "my college"
+        },
+        {
+            "id":22,
+            "page":5,
+            "name": "Gargi College",
+            "desc": "my college"
+        }
+        
+    ]
+}
