@@ -17,7 +17,7 @@ function Card (props){
             </div>
             <div className="description">
                 <div className="left-div">
-                    <h2 className="heading">{props}</h2>
+                    <h2 className="heading">{props.name}</h2>
                     <p className="college-addr">
                         New Vishwavidayal Station | <span className="sub-info">2km away</span>
                     </p>

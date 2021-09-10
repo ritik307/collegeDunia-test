@@ -8,6 +8,7 @@ function useFetch( page) {
     const [list, setList] = useState([]);
     const fetchData=(page)=>{
         let colleges=collegesData.data.filter(college => college.page===page);
+        // console.log(colleges);
         return colleges;
     }
     const sendQuery = useCallback(async () => {
@@ -15,9 +16,11 @@ function useFetch( page) {
         await setLoading(true);
         await setError(false);
         const res = fetchData(page);
-        await setList((prev) => [
-            ...new Set([...prev, ...res.map((d) => d.name)])
-        ]);
+        await setList((prev) =>{
+            let newList= prev.concat(res);
+            console.log(newList);
+            return newList;
+        });
         setLoading(false)
         } catch (err) {
         setError(err);

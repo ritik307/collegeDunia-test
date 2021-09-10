@@ -4,7 +4,6 @@ import Card from "../components/Card";
 
 import "./styles.css";
 function App() {
-  // const [query, setQuery] = useState("");
   const [page, setPage] = useState(1);
   const { loading, error, list } = useFetch(page);
   const loader = useRef(null);
@@ -29,6 +28,7 @@ function App() {
   return (
     <div className="container">
       <div className="cardHolder">
+      {console.log("the list is : ",list)}
         {list.map((item,i) => (
           <div className="cardDiv" key={i}>
             {Card(item)}
