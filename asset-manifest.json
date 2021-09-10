@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/collegeDunia-test/static/css/main.fd13b640.chunk.css",
-    "main.js": "/collegeDunia-test/static/js/main.6027f8b7.chunk.js",
-    "main.js.map": "/collegeDunia-test/static/js/main.6027f8b7.chunk.js.map",
+    "main.js": "/collegeDunia-test/static/js/main.1a2b9a6f.chunk.js",
+    "main.js.map": "/collegeDunia-test/static/js/main.1a2b9a6f.chunk.js.map",
     "runtime-main.js": "/collegeDunia-test/static/js/runtime-main.d4d5fc39.js",
     "runtime-main.js.map": "/collegeDunia-test/static/js/runtime-main.d4d5fc39.js.map",
-    "static/js/2.5ae75c6c.chunk.js": "/collegeDunia-test/static/js/2.5ae75c6c.chunk.js",
-    "static/js/2.5ae75c6c.chunk.js.map": "/collegeDunia-test/static/js/2.5ae75c6c.chunk.js.map",
+    "static/js/2.280e02a5.chunk.js": "/collegeDunia-test/static/js/2.280e02a5.chunk.js",
+    "static/js/2.280e02a5.chunk.js.map": "/collegeDunia-test/static/js/2.280e02a5.chunk.js.map",
     "index.html": "/collegeDunia-test/index.html",
     "static/css/main.fd13b640.chunk.css.map": "/collegeDunia-test/static/css/main.fd13b640.chunk.css.map",
-    "static/js/2.5ae75c6c.chunk.js.LICENSE.txt": "/collegeDunia-test/static/js/2.5ae75c6c.chunk.js.LICENSE.txt",
+    "static/js/2.280e02a5.chunk.js.LICENSE.txt": "/collegeDunia-test/static/js/2.280e02a5.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/collegeDunia-test/static/media/DINPro-Medium_13936.2e7ded00.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.d4d5fc39.js",
-    "static/js/2.5ae75c6c.chunk.js",
+    "static/js/2.280e02a5.chunk.js",
     "static/css/main.fd13b640.chunk.css",
-    "static/js/main.6027f8b7.chunk.js"
+    "static/js/main.1a2b9a6f.chunk.js"
   ]
 }
