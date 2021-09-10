@@ -1,6 +1,3 @@
-//? useRef()- it is a value that is persisted between the components render.
-//? bcz in react everything we do stays inside render unless it is part of our state and to store things
-//? that are not part of our state we have to use "useRef"
 import React, { useState, useRef, useEffect, useCallback } from "react";
 import useFetch from "../useFetch";
 import Card from "../components/Card";
