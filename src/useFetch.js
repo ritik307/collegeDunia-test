@@ -1,5 +1,4 @@
 import { useState, useEffect, useCallback } from "react";
-import axios from "axios";
 const collegesData = require("./data.json");
 
 function useFetch( page) {
@@ -8,7 +7,6 @@ function useFetch( page) {
     const [list, setList] = useState([]);
     const fetchData=(page)=>{
         let colleges=collegesData.data.filter(college => college.page===page);
-        // console.log(colleges);
         return colleges;
     }
     const sendQuery = useCallback(async () => {

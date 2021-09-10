@@ -6,11 +6,11 @@
             "name": "Miranda House",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5768,
             "desc": "my college"
         },
         {
@@ -19,11 +19,11 @@
             "name": "Lady Shri Ram College for Women",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "4",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "6,768",
+            "fee": 6000,
             "desc": "my college"
         },
         {
@@ -32,11 +32,11 @@
             "name": "Loyola College",
             "tag": "Best College 2018",
             "tagdist": "1km",
-            "ratingnum": "3.2",
+            "ratingnum": 4.2,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -45,11 +45,11 @@
             "name": "St. Xavier’s College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -58,11 +58,11 @@
             "name": "Ramakrishna Mission Vidyamandira",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 3.6,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -71,11 +71,11 @@
             "name": "PSGR Krishnammal College for Women",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -84,11 +84,11 @@
             "name": "Presidency College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -97,11 +97,11 @@
             "name": "St Stephen's College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 3.7,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -110,11 +110,11 @@
             "name": "Hindu College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 3.8,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -123,11 +123,11 @@
             "name": "Shri Ram College of Commerce",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -136,11 +136,11 @@
             "name": "Sri Venkateswara College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 3.5,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -149,11 +149,11 @@
             "name": "Atma Ram Santan Dharm College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4.2,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5300,
             "desc": "my college"
         },
         {
@@ -162,11 +162,11 @@
             "name": "Deen Dayal Upadhyaya College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5600,
             "desc": "my college"
         },
         {
@@ -175,11 +175,11 @@
             "name": "Hans Raj College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 3.9,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5500,
             "desc": "my college"
         },
         {
@@ -188,11 +188,11 @@
             "name": "Gargi College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 3.5,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5300,
             "desc": "my college"
         },
         {
@@ -201,11 +201,11 @@
             "name": "Kirori Mal College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 3.6,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5400,
             "desc": "my college"
         },
         {
@@ -214,11 +214,11 @@
             "name": "Madras Christian College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5250,
             "desc": "my college"
         },
         {
@@ -227,11 +227,11 @@
             "name": "PSG College of Arts and Science",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4.2,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5250,
             "desc": "my college"
         },
         {
@@ -240,11 +240,11 @@
             "name": "PSG College of Arts and Science",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 3.6,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5200,
             "desc": "my college"
         },
         {
@@ -253,11 +253,11 @@
             "name": "Acharya Narendra Dev College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5300,
             "desc": "my college"
         },
         {
@@ -266,24 +266,24 @@
             "name": "Gargi College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 3.8,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5800,
             "desc": "my college"
         },
         {
             "id":22,
             "page":5,
-            "name": "Gargi College",
+            "name": "Daulat Ram College",
             "tag": "Best College 2018",
             "tagdist": "2km",
-            "ratingnum": "3.9",
+            "ratingnum": 4,
             "ratingremark": "Very Good",
             "landmark": "New Vishwavidayal Station",
             "dist": "2km",
-            "fee": "5,768",
+            "fee": 5600,
             "desc": "my college"
         }
         

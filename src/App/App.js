@@ -28,7 +28,6 @@ function App() {
   return (
     <div className="container">
       <div className="cardHolder">
-      {console.log("the list is : ",list)}
         {list.map((item,i) => (
           <div className="cardDiv" key={i}>
             {Card(item)}
