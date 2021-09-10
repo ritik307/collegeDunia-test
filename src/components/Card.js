@@ -5,13 +5,13 @@ function Card (props){
             <div className="header">
                 
                 <div className="tags-container">
-                    <span className="tags">Best College 2018</span>
-                    <span className="tags">2km away</span>
+                    <span className="tags">{props.tag}</span>
+                    <span className="tags">{props.tagdist} away</span>
                 </div>
                 <div className="rating-container">
                     <div className="rating-div">
-                        <p className="rating-content">3.9/5</p>
-                        <p className="rating-content">Very Good</p>
+                        <p className="rating-content">{props.ratingnum}/5</p>
+                        <p className="rating-content">{props.ratingremark}</p>
                     </div>
                 </div>
             </div>
@@ -19,14 +19,14 @@ function Card (props){
                 <div className="left-div">
                     <h2 className="heading">{props.name}</h2>
                     <p className="college-addr">
-                        New Vishwavidayal Station | <span className="sub-info">2km away</span>
+                        {props.landmark} | <span className="sub-info">{props.dist} away</span>
                     </p>
                     <p className="extra-info">
                         93% Match : <span className="landmark-dist">2.5kms</span> <span className="sub-info">from GTB Nagar</span>,<span className="landmark-dist">7kms</span> <span className="sub-info">from GTB Nagar</span>
                     </p>
                 </div>
                 <div className="right-div">
-                    <h2 className="price">₹ 5,768</h2>
+                    <h2 className="price">{props.fee}</h2>
                     <p className="sem-info">Per Semester (3months)</p>
                 </div>
             </div>
