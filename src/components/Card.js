@@ -26,7 +26,7 @@ function Card (props){
                     </p>
                 </div>
                 <div className="right-div">
-                    <h2 className="price">{props.fee}</h2>
+                    <h2 className="price">₹ {props.fee}</h2>
                     <p className="sem-info">Per Semester (3months)</p>
                 </div>
             </div>
