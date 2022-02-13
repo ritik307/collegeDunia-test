@@ -4,6 +4,7 @@ import Card from "../components/Card";
 
 import "./styles.css";
 function App() {
+  let shailly=45;
   const [page, setPage] = useState(1);
   const { loading, error, list } = useFetch(page);
   const loader = useRef(null);
@@ -14,7 +15,7 @@ function App() {
       setPage((prev) => prev + 1);
     }
   }, []);
-
+//commit by shailly
   useEffect(() => {
     const option = {
       root: null,
